@@ -1,7 +1,7 @@
-e1c6b98ce842ba8d749414335108c007 *DESCRIPTION
+9c6576ffd5ac168f9a6f7724f70506eb *DESCRIPTION
 ade4aa504213ef0e3427cd9a4268bea7 *NAMESPACE
-fb2d11f574809320b1732b31f60192e8 *R/analysis.R
-7050032bc90b15e0842fd236e512d16e *R/buildSets.R
+b48ec320ead8b9963e280f9a8613c7dc *R/analysis.R
+b37a39ec51f74396eb615e35fee3436a *R/buildSets.R
 05e9f6f418fa6c8d0765dcfb4b93868b *R/createCytoscapeVizMap.R
 b9403481f69598f9b42d928a9acc5bad *R/gene_nets.R
 32ea5df0b151b3c2ae46e5bbc1319cbc *R/set_operators.R
@@ -9,9 +9,9 @@ b9403481f69598f9b42d928a9acc5bad *R/gene_nets.R
 9358ad6d93443219e751166b13c6aabd *R/tables.R
 da3352fa4c5fc56e022bddd551c1c0a8 *build/vignette.rds
 a0f1178c5cd7353d796bbbe2a71e707f *inst/doc/vignette.ltx
-eaa6164aa501d20874fe48b4ac90cbe8 *inst/doc/vignette.pdf
+641f55b17db6fb047418221bf10844ea *inst/doc/vignette.pdf
 007b54ff90e64a174a01632dbd91a50f *inst/extdata/gene_net_style_template.xml
-aa562fb958223038fa2515c4799946c3 *man/buildSetCollection.Rd
+15efc6865b701cc906570b4459f34637 *man/buildSetCollection.Rd
 5f95bf8cbe218670dbc826d7f3d88972 *man/createCytoscapeVizMap.Rd
 75caecf8812b7eb1e119c96d814b75a2 *man/createIDConverter.Rd
 41e8949eb3547b3a1821029e859fe67f *man/createPathwayTable.Rd
