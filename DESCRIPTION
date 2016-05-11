@@ -1,8 +1,8 @@
 Package: SetRank
 Type: Package
 Title: Advanced Gene Set Enrichment Analysis
-Version: 1.0.1
-Date: 2015-12-07
+Version: 1.1.0
+Date: 2016-05-10
 Author: Cedric Simillion
 Maintainer: Cedric Simillion <cedric.simillion@dkf.unibe.ch>
 Description: Implements an algorithm to conduct advanced
@@ -13,6 +13,6 @@ RoxygenNote: 5.0.1
 Suggests: R.rsp
 VignetteBuilder: R.rsp
 NeedsCompilation: no
-Packaged: 2015-12-09 12:08:53 UTC; cesim
+Packaged: 2016-05-11 08:43:17 UTC; cesim
 Repository: CRAN
-Date/Publication: 2015-12-09 21:44:26
+Date/Publication: 2016-05-11 12:06:23
